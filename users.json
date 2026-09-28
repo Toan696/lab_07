@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ABC",
+      "email": "abc123@gmail.com",
+      "desc": "Sinh vien UEH",
+      "avatar_url": "https://oemgroup.vn/wp-content/uploads/2025/04/top-4-dia-diem-may-dong-phuc-ao-lop-danh-cho-cac-truong-hoc-04-1710172757.jpg",
+      "hobby": "The thao, Am nhac"
+    },
+    {
+      "id": 2,
+      "username": "MNO",
+      "email": "mno345@gmail.com",
+      "desc": "Sinh viên DHBK",
+      "avatar_url": "https://down-vn.img.susercontent.com/file/vn-11134201-820l4-mg7og8ocdgcob1@resize_w900_nl.webp",
+      "hobby": "Du lich, Doc sach"
+    },
+    {
+      "id": 3,
+      "username": "XYZ",
+      "email": "xyz567@gmail.com",
+      "desc": "Sinh vien UEL",
+      "avatar_url": "https://uel.edu.vn/storage/fl/about/sukienkhoa.jpg",
+      "hobby": "Bong da, Chup anh"
+    }
+  ]
+}
