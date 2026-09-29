@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ABC",
+      "email": "abc123@gmail.com",
+      "desc": "Sinh vien UEH",
+      "avatar_url": "https://i.pravatar.cc/300?img=1",
+      "hobby": "The thao, Am nhac"
+    },
+    {
+      "id": 2,
+      "username": "MNO",
+      "email": "mno345@gmail.com",
+      "desc": "Sinh vien DHBK",
+      "avatar_url": "https://i.pravatar.cc/300?img=5",
+      "hobby": "Du lich, Doc sach"
+    },
+    {
+      "id": 3,
+      "username": "XYZ",
+      "email": "xyz567@gmail.com",
+      "desc": "Sinh vien UEL",
+      "avatar_url": "https://i.pravatar.cc/300?img=8",
+      "hobby": "Bong da, Chup anh"
+    },
+    {
+      "id": 4,
+      "username": "DEF",
+      "email": "def456@gmail.com",
+      "desc": "Sinh vien UEH",
+      "avatar_url": "https://i.pravatar.cc/300?img=11",
+      "hobby": "Nau an, Xem phim"
+    },
+    {
+      "id": 5,
+      "username": "GHI",
+      "email": "ghi789@gmail.com",
+      "desc": "Sinh vien HCMUS",
+      "avatar_url": "https://i.pravatar.cc/300?img=16",
+      "hobby": "Lap trinh, Choi game"
+    },
+    {
+      "id": 6,
+      "username": "JKL",
+      "email": "jkl012@gmail.com",
+      "desc": "Sinh vien UIT",
+      "avatar_url": "https://i.pravatar.cc/300?img=20",
+      "hobby": "Bong ro, Nghe nhac"
+    },
+    {
+      "id": 7,
+      "username": "PQR",
+      "email": "pqr234@gmail.com",
+      "desc": "Sinh vien NEU",
+      "avatar_url": "https://i.pravatar.cc/300?img=25",
+      "hobby": "Ve tranh, Doc sach"
+    },
+    {
+      "id": 8,
+      "username": "STU",
+      "email": "stu678@gmail.com",
+      "desc": "Sinh vien FTU",
+      "avatar_url": "https://i.pravatar.cc/300?img=32",
+      "hobby": "Boi loi, Du lich"
+    },
+    {
+      "id": 9,
+      "username": "VWX",
+      "email": "vwx890@gmail.com",
+      "desc": "Sinh vien UEH",
+      "avatar_url": "https://i.pravatar.cc/300?img=47",
+      "hobby": "Chay bo, Chup anh"
+    },
+    {
+      "id": 10,
+      "username": "YZA",
+      "email": "yza135@gmail.com",
+      "desc": "Sinh vien UEL",
+      "avatar_url": "https://i.pravatar.cc/300?img=60",
+      "hobby": "Guitar, Xem phim"
+    }
+  ]
+}
